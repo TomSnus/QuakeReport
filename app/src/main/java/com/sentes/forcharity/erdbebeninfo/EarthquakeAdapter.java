@@ -1,4 +1,4 @@
-package com.example.android.quakereport;
+package com.sentes.forcharity.erdbebeninfo;
 
 import android.content.Context;
 import android.graphics.drawable.GradientDrawable;
@@ -15,7 +15,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-import static com.example.android.quakereport.R.id.magnitude;
+import static com.sentes.forcharity.erdbebeninfo.R.id.magnitude;
 
 /**
  * Created by Faßreiter on 26.01.2017.

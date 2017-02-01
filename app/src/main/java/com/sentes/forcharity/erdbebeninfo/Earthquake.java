@@ -1,4 +1,4 @@
-package com.example.android.quakereport;
+package com.sentes.forcharity.erdbebeninfo;
 
 /**
  * Created by Faßreiter on 26.01.2017.

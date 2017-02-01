@@ -1,0 +1,33 @@
+<fragment
+
+
+
+    android:name="com.sentes.forcharity.erdbebeninfo.SettingsActivity$EarthquakePreferenceFragment"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sentes.forcharity.erdbebeninfo.SettingsActivity">
+
+    <com.google.android.gms.ads.NativeExpressAdView
+        android:id="@+id/adViewNative"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adUnitId="@string/native_ad_unit_id"
+        ads:adSize="280x250">
+    </com.google.android.gms.ads.NativeExpressAdView>
+
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_settings_unit">
+    </com.google.android.gms.ads.AdView>
+</fragment>
+
