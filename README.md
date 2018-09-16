@@ -4,7 +4,7 @@
 This app displays a list of recent earthquakes in the world
 from the U.S. Geological Survey (USGS) organization.
 
-## Counter Strike  Android Application 
+## Quake Report  Android Application 
 
 <img src="https://github.com/TomSnus/QuakeReport/blob/master/screens/Screenshot_2017-01-30-12-05-48.png" display: block width=50% height=50%>
 
